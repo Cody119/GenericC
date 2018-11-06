@@ -3,3 +3,4 @@
 # Un-ignore all of subtree
 !/src/
 !.gitignore
+!CMakeList.txt
